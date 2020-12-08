@@ -1,0 +1,1 @@
+A springboot application that connects to MySql database to authenticate a user
